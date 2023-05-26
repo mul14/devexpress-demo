@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "3ce67bb8-3877-5b74-795e-db43c3677312",
+      "email": "admin@yopmail.com",
+      "password": "123",
+      "name": "Si Admin",
+      "role_id": 1
+    },
+    {
+      "id": "28029dc8-8131-4045-99ce-a613e9a603b8",
+      "email": "user@yopmail.com",
+      "password": "123",
+      "name": "The User",
+      "role_id": 2
+    },
+    {
+      "id": "f15f4110-fbfe-11ed-92b2-d9951d04cad9",
+      "email": "other@yopmail.com",
+      "password": "123",
+      "name": "Other Person",
+      "role_id": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "User"
+    }
+  ]
+}
